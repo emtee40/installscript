@@ -14,7 +14,7 @@ sudo apt-get install tmate -y
 #sudo apt-get install openssh-server -y
 echo "install programming tools"
 #ruby
-sudo apt-get install ruby
+sudo apt-get install ruby -y
 #python
 sudo apt-get install python -y
 #sudo apt-get install python-pip -y
@@ -43,8 +43,8 @@ sudo apt-get install weechat -y
 #sudo apt-get install hexchat -y
 
 #echo "install lateX"
-sudo apt-get install texstudio -Y
-sudo apt-get install latex -Y
-sudo apt-get install texlive -Y
-sudo apt-get install texlive-base -Y
+sudo apt-get install texstudio -y
+sudo apt-get install latex -y
+sudo apt-get install texlive -y
+sudo apt-get install texlive-base -y
 
