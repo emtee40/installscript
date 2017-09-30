@@ -15,6 +15,8 @@ sudo apt-get install tmate -y
 echo "install programming tools"
 #ruby
 sudo apt-get install ruby -y
+sudo apt-get install sonic-pi -y
+
 #python
 sudo apt-get install python -y
 #sudo apt-get install python-pip -y
@@ -23,6 +25,8 @@ sudo apt-get install python3 -y
 sudo apt-get install python3-tk -y
 sudo apt-get install python3-pip -y
 sudo apt-get install idle3 -y
+
+
 
 #arduino
 sudo apt-get install arduino arduino-core arduino-mighty-1284p arduino-mk -y
